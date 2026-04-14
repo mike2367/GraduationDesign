@@ -1,0 +1,10 @@
+{
+  "name": "claude-opus-4-6-thinking-anti",
+  "provider": "aigcbest",
+  "model_id": "claude-opus-4-6-thinking-anti",
+  "prompt_limit": 10000,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "max_tokens": 8000,
+  "notes": "OpenAI-compatible API via AIGC_BEST_BASE_URL; thinking model routed by gateway."
+}

@@ -1,0 +1,9 @@
+data
+docs
+lib
+output
+__pycache__
+.vscode
+tools
+*.csv
+temp_scripts

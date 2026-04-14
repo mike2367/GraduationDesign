@@ -1,0 +1,9 @@
+{
+  "name": "GPT-3.5-turbo",
+  "model_id": "openai/gpt-3.5-turbo",
+  "prompt_limit": 8000,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "max_tokens": 8000,
+  "notes": "Faster and cheaper; good general purpose conversational model."
+}
