@@ -1,7 +1,7 @@
 
 # SL-Lex (SL-LLM-explainer)
 
-SL-Lex is an LLM-based explanation framework for interpreting the biological mechanisms behind **Synthetic Lethality (SL)**. It combines (1) knowledge graph (KG) evidence aggregation, (2) subgraph-centric evidence packaging, and (3) LLM prompting + evaluation to produce mechanism-oriented study output.
+SL-Lex is an LLM-based explanation framework for interpreting the biological mechanisms behind **Synthetic Lethality (SL)**. It combines knowledge graph (KG) evidence aggregation, subgraph-centric evidence packaging, and LLM prompting + evaluation to produce mechanism-oriented study output.
 
 ## Background Reading
 We highly recommend the following readings which can provide better understandings of the project background and motives
