@@ -1,0 +1,46 @@
+# SL-Lex (SL-LLM-explainer) — Python dependencies
+#
+# This list is derived from the actual imports under src/.
+# Some packages (notably torch / torch-geometric) may require platform-specific
+# installation steps; see README.
+
+# --- Core scientific stack ---
+numpy
+pandas
+scikit-learn
+
+# --- Graph + progress ---
+networkx
+tqdm
+
+# --- KG data sources / clients (used by default KG build steps) ---
+# STRING expansion
+stringdb
+# UniProt mapping (used for OmniPath protein interaction expansion)
+bioservices
+# Optional: OmniPath python client (TF regulation fetch fallback)
+# omnipath
+
+# --- Visualization ---
+matplotlib
+seaborn
+pyvis
+
+# --- LLM-side local models / scoring (optional but used by default scoring codepaths) ---
+transformers
+sentence-transformers
+sentencepiece
+
+# --- Deep learning (GNN + embedding models) ---
+# Install torch first if needed (CUDA/CPU wheel differs by platform).
+torch
+# Install PyG following the official wheel matrix if pip cannot resolve it automatically.
+# torch-geometric
+
+# --- Optional: DNS fallback for OpenAI-compatible endpoints ---
+# Used only when system DNS resolution fails.
+# dnspython
+
+# --- Notebook convenience (optional) ---
+# jupyter
+# ipykernel

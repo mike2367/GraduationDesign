@@ -403,8 +403,6 @@ def _get_st_embedder():
 
     candidates = [
         ecfg.EXPERT_JUDGE_MODEL_PATH,
-        "/data/guoyu/HF-models/all-MiniLM-L6-v2",
-        "/data/guoyu/HF-models/sentence-transformers/all-MiniLM-L6-v2",
     ]
     for p in candidates:
         if p and Path(p).exists():

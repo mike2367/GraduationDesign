@@ -1,0 +1,1202 @@
+[
+  {
+    "gene_a": "KRAS",
+    "gene_b": "SNRPD3"
+  },
+  {
+    "gene_a": "EGFR",
+    "gene_b": "MYC"
+  },
+  {
+    "gene_a": "EGFR",
+    "gene_b": "MET"
+  },
+  {
+    "gene_a": "AKT1",
+    "gene_b": "SMAD4"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "RNF126"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "KMT2C"
+  },
+  {
+    "gene_a": "CDKN1A",
+    "gene_b": "VHL"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "EZH2"
+  },
+  {
+    "gene_a": "AKT1",
+    "gene_b": "CDK6"
+  },
+  {
+    "gene_a": "ATM",
+    "gene_b": "CDK1"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "RPA1"
+  },
+  {
+    "gene_a": "ALK",
+    "gene_b": "PARP1"
+  },
+  {
+    "gene_a": "EGFR",
+    "gene_b": "RB1"
+  },
+  {
+    "gene_a": "BRCA1",
+    "gene_b": "PARP2"
+  },
+  {
+    "gene_a": "BRCA1",
+    "gene_b": "DDB1"
+  },
+  {
+    "gene_a": "BRCA1",
+    "gene_b": "PML"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "MEN1"
+  },
+  {
+    "gene_a": "CDK12",
+    "gene_b": "PARP1"
+  },
+  {
+    "gene_a": "CASP8",
+    "gene_b": "IKBKB"
+  },
+  {
+    "gene_a": "IRF4",
+    "gene_b": "SPIB"
+  },
+  {
+    "gene_a": "BAP1",
+    "gene_b": "PARP1"
+  },
+  {
+    "gene_a": "ALK",
+    "gene_b": "SMARCA2"
+  },
+  {
+    "gene_a": "BCL2",
+    "gene_b": "PLK1"
+  },
+  {
+    "gene_a": "BRCA1",
+    "gene_b": "RAD51C"
+  },
+  {
+    "gene_a": "CDKN1A",
+    "gene_b": "CHEK1"
+  },
+  {
+    "gene_a": "ERBB2",
+    "gene_b": "PIK3CA"
+  },
+  {
+    "gene_a": "PIM1",
+    "gene_b": "PLK1"
+  },
+  {
+    "gene_a": "NF2",
+    "gene_b": "PTK2"
+  },
+  {
+    "gene_a": "AKT1",
+    "gene_b": "BCL2"
+  },
+  {
+    "gene_a": "CASP8",
+    "gene_b": "FADD"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "MAPK6"
+  },
+  {
+    "gene_a": "RB1",
+    "gene_b": "TSC2"
+  },
+  {
+    "gene_a": "BCL2",
+    "gene_b": "CDK6"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "XRCC5"
+  },
+  {
+    "gene_a": "CASP8",
+    "gene_b": "RNF34"
+  },
+  {
+    "gene_a": "CUX1",
+    "gene_b": "PARP1"
+  },
+  {
+    "gene_a": "VHL",
+    "gene_b": "EZH1"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "RAD51C"
+  },
+  {
+    "gene_a": "CDK12",
+    "gene_b": "PARP2"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "USP39"
+  },
+  {
+    "gene_a": "AKT1",
+    "gene_b": "TXNRD1"
+  },
+  {
+    "gene_a": "AKT1",
+    "gene_b": "MTOR"
+  },
+  {
+    "gene_a": "ALK",
+    "gene_b": "SMARCA4"
+  },
+  {
+    "gene_a": "ALK",
+    "gene_b": "MET"
+  },
+  {
+    "gene_a": "ATM",
+    "gene_b": "RAD50"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "MYC"
+  },
+  {
+    "gene_a": "BRCA1",
+    "gene_b": "CHEK2"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "WRN"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "CHEK1"
+  },
+  {
+    "gene_a": "CDKN1A",
+    "gene_b": "KRAS"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "RAD52"
+  },
+  {
+    "gene_a": "ATM",
+    "gene_b": "MYC"
+  },
+  {
+    "gene_a": "FLT3",
+    "gene_b": "KIT"
+  },
+  {
+    "gene_a": "ATM",
+    "gene_b": "PTEN"
+  },
+  {
+    "gene_a": "ARID1A",
+    "gene_b": "ARID1B"
+  },
+  {
+    "gene_a": "SMARCA4",
+    "gene_b": "CDK4"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "PLK1"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "ERH"
+  },
+  {
+    "gene_a": "MTOR",
+    "gene_b": "GLI2"
+  },
+  {
+    "gene_a": "ARID1A",
+    "gene_b": "ATR"
+  },
+  {
+    "gene_a": "VHL",
+    "gene_b": "MET"
+  },
+  {
+    "gene_a": "ARID1A",
+    "gene_b": "ALDH2"
+  },
+  {
+    "gene_a": "MTOR",
+    "gene_b": "GLI1"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "HDAC9"
+  },
+  {
+    "gene_a": "VHL",
+    "gene_b": "MTOR"
+  },
+  {
+    "gene_a": "TSC2",
+    "gene_b": "RB1"
+  },
+  {
+    "gene_a": "PIK3CA",
+    "gene_b": "MYC"
+  },
+  {
+    "gene_a": "MTOR",
+    "gene_b": "DAB2IP"
+  },
+  {
+    "gene_a": "ATM",
+    "gene_b": "ATR"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "BRCA2"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "DHODH"
+  },
+  {
+    "gene_a": "FBXW7",
+    "gene_b": "GAK"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "BCL2L1"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "GATA2"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "MDM4"
+  },
+  {
+    "gene_a": "MYCN",
+    "gene_b": "CDK2"
+  },
+  {
+    "gene_a": "PIM1",
+    "gene_b": "MYC"
+  },
+  {
+    "gene_a": "CDK12",
+    "gene_b": "EWSR1"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "PSMB5"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "CDKN1A"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "CHEK1"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "THOC1"
+  },
+  {
+    "gene_a": "BRAF",
+    "gene_b": "HMGCS1"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "ATM"
+  },
+  {
+    "gene_a": "BCL2",
+    "gene_b": "TP53"
+  },
+  {
+    "gene_a": "SF3B1",
+    "gene_b": "SRSF2"
+  },
+  {
+    "gene_a": "ATRX",
+    "gene_b": "FANCM"
+  },
+  {
+    "gene_a": "BRCA1",
+    "gene_b": "PLK1"
+  },
+  {
+    "gene_a": "APC",
+    "gene_b": "TP53"
+  },
+  {
+    "gene_a": "BCL2",
+    "gene_b": "PIK3CA"
+  },
+  {
+    "gene_a": "EGFR",
+    "gene_b": "BAK1"
+  },
+  {
+    "gene_a": "PIK3CA",
+    "gene_b": "GLI2"
+  },
+  {
+    "gene_a": "ATM",
+    "gene_b": "HUS1"
+  },
+  {
+    "gene_a": "MTOR",
+    "gene_b": "VHL"
+  },
+  {
+    "gene_a": "TRRAP",
+    "gene_b": "MYC"
+  },
+  {
+    "gene_a": "EGFR",
+    "gene_b": "HGF"
+  },
+  {
+    "gene_a": "FGFR3",
+    "gene_b": "ITGB3"
+  },
+  {
+    "gene_a": "MTOR",
+    "gene_b": "RPS6KB1"
+  },
+  {
+    "gene_a": "NF2",
+    "gene_b": "YAP1"
+  },
+  {
+    "gene_a": "PIK3CA",
+    "gene_b": "PPARA"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "SH3BP4"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "WEE1"
+  },
+  {
+    "gene_a": "VHL",
+    "gene_b": "SLC2A1"
+  },
+  {
+    "gene_a": "ARID1A",
+    "gene_b": "AURKA"
+  },
+  {
+    "gene_a": "MTOR",
+    "gene_b": "MAPK1"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "IGF2"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "CDK2"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "MDM2"
+  },
+  {
+    "gene_a": "SMARCA4",
+    "gene_b": "CDK6"
+  },
+  {
+    "gene_a": "RB1",
+    "gene_b": "SKP2"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "ATR"
+  },
+  {
+    "gene_a": "ALK",
+    "gene_b": "MTOR"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "LDHA"
+  },
+  {
+    "gene_a": "BCL2",
+    "gene_b": "COPS5"
+  },
+  {
+    "gene_a": "CDKN1A",
+    "gene_b": "SUMO1"
+  },
+  {
+    "gene_a": "CDKN1A",
+    "gene_b": "MCM5"
+  },
+  {
+    "gene_a": "ERBB2",
+    "gene_b": "TALDO1"
+  },
+  {
+    "gene_a": "AKT1",
+    "gene_b": "BTG2"
+  },
+  {
+    "gene_a": "BRAF",
+    "gene_b": "SUMO1"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "SEM1"
+  },
+  {
+    "gene_a": "HRAS",
+    "gene_b": "BIRC5"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "RITA1"
+  },
+  {
+    "gene_a": "MTOR",
+    "gene_b": "CREB1"
+  },
+  {
+    "gene_a": "AKT1",
+    "gene_b": "BECN1"
+  },
+  {
+    "gene_a": "ESR1",
+    "gene_b": "KRAS"
+  },
+  {
+    "gene_a": "AR",
+    "gene_b": "MAPK8"
+  },
+  {
+    "gene_a": "ALK",
+    "gene_b": "MCL1"
+  },
+  {
+    "gene_a": "AKT1",
+    "gene_b": "JUN"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "SIRT1"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "ATR"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "BAX"
+  },
+  {
+    "gene_a": "BRCA1",
+    "gene_b": "PARP1"
+  },
+  {
+    "gene_a": "MYCN",
+    "gene_b": "TP53"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "TP53BP1"
+  },
+  {
+    "gene_a": "CREBBP",
+    "gene_b": "PIK3R1"
+  },
+  {
+    "gene_a": "CREBBP",
+    "gene_b": "SDHB"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "NRTN"
+  },
+  {
+    "gene_a": "CREBBP",
+    "gene_b": "PIK3C3"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "SGMS1"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "CHRM1"
+  },
+  {
+    "gene_a": "GATA3",
+    "gene_b": "KMT2E"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "SLTM"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "GEM"
+  },
+  {
+    "gene_a": "MAP2K4",
+    "gene_b": "KMT2C"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "CEBPG"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "GMEB1"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "RRM2"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "RAD21"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "PUF60"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "NDUFS7"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "CDKN2A"
+  },
+  {
+    "gene_a": "GATA3",
+    "gene_b": "SYNE2"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "SNRPD2"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "SLC39A11"
+  },
+  {
+    "gene_a": "BCL2",
+    "gene_b": "MYC"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "KIF22"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "RPL11"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "PUS7L"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "CEBPE"
+  },
+  {
+    "gene_a": "CDH1",
+    "gene_b": "GATA3"
+  },
+  {
+    "gene_a": "MAP3K1",
+    "gene_b": "BRIP1"
+  },
+  {
+    "gene_a": "BCL2",
+    "gene_b": "CD34"
+  },
+  {
+    "gene_a": "CREBBP",
+    "gene_b": "PER1"
+  },
+  {
+    "gene_a": "MAP2K4",
+    "gene_b": "RB1"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "ATMIN"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "MLH1"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "RAD50"
+  },
+  {
+    "gene_a": "CREBBP",
+    "gene_b": "KRAS"
+  },
+  {
+    "gene_a": "ATM",
+    "gene_b": "TIPARP"
+  },
+  {
+    "gene_a": "CDH1",
+    "gene_b": "RNF34"
+  },
+  {
+    "gene_a": "CREBBP",
+    "gene_b": "EXT1"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "EIF4A1"
+  },
+  {
+    "gene_a": "CDKN1A",
+    "gene_b": "PARP1"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "CIC"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "RPRD1A"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "FGF3"
+  },
+  {
+    "gene_a": "EGFR",
+    "gene_b": "HRAS"
+  },
+  {
+    "gene_a": "BRCA1",
+    "gene_b": "PTEN"
+  },
+  {
+    "gene_a": "EZH2",
+    "gene_b": "RPS6KB1"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "ATP7B"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "XRCC2"
+  },
+  {
+    "gene_a": "AKT1",
+    "gene_b": "PARP1"
+  },
+  {
+    "gene_a": "CREBBP",
+    "gene_b": "KMT2C"
+  },
+  {
+    "gene_a": "BCL2",
+    "gene_b": "ITGB1"
+  },
+  {
+    "gene_a": "RAC1",
+    "gene_b": "KRAS"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "TP53"
+  },
+  {
+    "gene_a": "CDH1",
+    "gene_b": "PPARA"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "MAPRE1"
+  },
+  {
+    "gene_a": "ATM",
+    "gene_b": "XRCC3"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "RBBP8"
+  },
+  {
+    "gene_a": "AKT1",
+    "gene_b": "KEAP1"
+  },
+  {
+    "gene_a": "ATM",
+    "gene_b": "CHEK2"
+  },
+  {
+    "gene_a": "ATRX",
+    "gene_b": "RAD17"
+  },
+  {
+    "gene_a": "MAP3K1",
+    "gene_b": "RB1"
+  },
+  {
+    "gene_a": "CASP8",
+    "gene_b": "PARP1"
+  },
+  {
+    "gene_a": "BCL2",
+    "gene_b": "CDKN1A"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "NOTCH1"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "SSH3"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "ID1"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "STK32A"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "C1QL1"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "ACOX3"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "TP53"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "SYNE2"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "CDK1"
+  },
+  {
+    "gene_a": "HRAS",
+    "gene_b": "MYC"
+  },
+  {
+    "gene_a": "MAP2K4",
+    "gene_b": "BRIP1"
+  },
+  {
+    "gene_a": "AR",
+    "gene_b": "CASP3"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "XRCC5"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "RPS3"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "TPD52L1"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "GAB1"
+  },
+  {
+    "gene_a": "FBXW7",
+    "gene_b": "KRAS"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "RPL22"
+  },
+  {
+    "gene_a": "CDH1",
+    "gene_b": "MEN1"
+  },
+  {
+    "gene_a": "BCL2",
+    "gene_b": "NRAS"
+  },
+  {
+    "gene_a": "EGFR",
+    "gene_b": "KIT"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "TSC1"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "RAD51B"
+  },
+  {
+    "gene_a": "BCL2",
+    "gene_b": "BMF"
+  },
+  {
+    "gene_a": "CREBBP",
+    "gene_b": "BCL10"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "PRPF19"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "BLM"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "COPS5"
+  },
+  {
+    "gene_a": "MTOR",
+    "gene_b": "EIF4E"
+  },
+  {
+    "gene_a": "BRCA1",
+    "gene_b": "PARG"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "BACH2"
+  },
+  {
+    "gene_a": "CDKN1A",
+    "gene_b": "CASP3"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "ICMT"
+  },
+  {
+    "gene_a": "TP53",
+    "gene_b": "NAMPT"
+  },
+  {
+    "gene_a": "APC",
+    "gene_b": "ALDH2"
+  },
+  {
+    "gene_a": "PIK3CA",
+    "gene_b": "MAPK1"
+  },
+  {
+    "gene_a": "MAP2K1",
+    "gene_b": "RNF183"
+  },
+  {
+    "gene_a": "PIK3R1",
+    "gene_b": "DDX10"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "DCLK2"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "RAP1A"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "PSMA1"
+  },
+  {
+    "gene_a": "PIK3CA",
+    "gene_b": "BAK1"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "POLR2A"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "BLM"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "PRKCSH"
+  },
+  {
+    "gene_a": "PIK3CA",
+    "gene_b": "BTG2"
+  },
+  {
+    "gene_a": "EGFR",
+    "gene_b": "BCL2L11"
+  },
+  {
+    "gene_a": "MAP2K1",
+    "gene_b": "CDK6"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "FANCC"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "ZNF260"
+  },
+  {
+    "gene_a": "BRAF",
+    "gene_b": "DUSP6"
+  },
+  {
+    "gene_a": "CDKN1A",
+    "gene_b": "CDK2"
+  },
+  {
+    "gene_a": "MTOR",
+    "gene_b": "ATG5"
+  },
+  {
+    "gene_a": "CASP8",
+    "gene_b": "BCL2L1"
+  },
+  {
+    "gene_a": "NF1",
+    "gene_b": "MEN1"
+  },
+  {
+    "gene_a": "BRCA1",
+    "gene_b": "BAX"
+  },
+  {
+    "gene_a": "BRAF",
+    "gene_b": "BMF"
+  },
+  {
+    "gene_a": "BRCA1",
+    "gene_b": "ATR"
+  },
+  {
+    "gene_a": "PIK3CA",
+    "gene_b": "CASP3"
+  },
+  {
+    "gene_a": "ERBB2",
+    "gene_b": "BAX"
+  },
+  {
+    "gene_a": "KMT2C",
+    "gene_b": "BIRC3"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "XRCC1"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "USP30"
+  },
+  {
+    "gene_a": "EZH2",
+    "gene_b": "MEN1"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "GPR157"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "DDX21"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "TOP2A"
+  },
+  {
+    "gene_a": "RB1",
+    "gene_b": "HSP90AA1"
+  },
+  {
+    "gene_a": "PIK3CA",
+    "gene_b": "ATR"
+  },
+  {
+    "gene_a": "EZH2",
+    "gene_b": "CCT2"
+  },
+  {
+    "gene_a": "EZH2",
+    "gene_b": "KRAS"
+  },
+  {
+    "gene_a": "MTOR",
+    "gene_b": "MET"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "KRAS"
+  },
+  {
+    "gene_a": "KIT",
+    "gene_b": "PRKCA"
+  },
+  {
+    "gene_a": "CREBBP",
+    "gene_b": "CREB1"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "POLR2J"
+  },
+  {
+    "gene_a": "EZH2",
+    "gene_b": "BIRC3"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "PIK3CA"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "RRM2"
+  },
+  {
+    "gene_a": "CDKN1B",
+    "gene_b": "WEE1"
+  },
+  {
+    "gene_a": "PIK3CA",
+    "gene_b": "MTOR"
+  },
+  {
+    "gene_a": "NOTCH2",
+    "gene_b": "CREBBP"
+  },
+  {
+    "gene_a": "PIK3CA",
+    "gene_b": "ESR1"
+  },
+  {
+    "gene_a": "CDH1",
+    "gene_b": "ABCC4"
+  },
+  {
+    "gene_a": "CDKN1A",
+    "gene_b": "BCCIP"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "SON"
+  },
+  {
+    "gene_a": "GATA3",
+    "gene_b": "ABCC4"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "CTNS"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "SUFU"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "NOTCH2"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "PRDX2"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "IL11RA"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "ACTR10"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "PSMD6"
+  },
+  {
+    "gene_a": "BRCA2",
+    "gene_b": "XRCC3"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "NOL8"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "LTA4H"
+  },
+  {
+    "gene_a": "PIK3CA",
+    "gene_b": "PIK3CB"
+  },
+  {
+    "gene_a": "CREBBP",
+    "gene_b": "FH"
+  },
+  {
+    "gene_a": "PIK3CA",
+    "gene_b": "PRKDC"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "KMT2E"
+  },
+  {
+    "gene_a": "KRAS",
+    "gene_b": "E2F1"
+  },
+  {
+    "gene_a": "PTEN",
+    "gene_b": "HAGHL"
+  },
+  {
+    "gene_a": "CREBBP",
+    "gene_b": "BIRC3"
+  }
+]

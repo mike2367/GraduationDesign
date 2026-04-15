@@ -72,35 +72,13 @@ def _safe_json_extract(s: str) -> Optional[Dict[str, Any]]:
 	return None
 
 
-def _embed_text(text: str, model_path: str) -> list[float]:
-	from pathlib import Path
-
-	local_candidates = [
-		model_path,
-		"/data/guoyu/HF-models/all-MiniLM-L6-v2",  # Local sentence transformer
-		"/data/guoyu/HF-models/sentence-transformers/all-MiniLM-L6-v2",  # Alternative path
-	]
-	resolved_path = None
-	for candidate in local_candidates:
-		if candidate and Path(candidate).exists():
-			resolved_path = candidate
-			break
-	if not resolved_path:
-		resolved_path = model_path if ("/" in model_path and "prometheus" not in model_path.lower()) else "sentence-transformers/all-MiniLM-L6-v2"
-
-	mdl = _get_embedder(resolved_path)
-	vec = mdl.encode([text], normalize_embeddings=True, show_progress_bar=False)
-	return vec[0].tolist()
-
 
 def _embed_texts(texts: list[str], model_path: str) -> list[list[float]]:
 	"""Batch embed texts with the same resolver logic as `_embed_text`."""
 	from pathlib import Path
 
 	local_candidates = [
-		model_path,
-		"/data/guoyu/HF-models/all-MiniLM-L6-v2",
-		"/data/guoyu/HF-models/sentence-transformers/all-MiniLM-L6-v2",
+		model_path
 	]
 	resolved_path = None
 	for candidate in local_candidates:

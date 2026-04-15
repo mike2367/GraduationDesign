@@ -10,6 +10,7 @@ from __future__ import annotations
 
 # ── Graph Data ────────────────────────────────────────────────────────────
 FULL_GRAPHML: str = "/data/guoyu/KG-LLM-XSL/output/ablation_graphs/full.graphml"
+CKPTS_DIR: str = "/data/guoyu/KG-LLM-XSL/output/GNN_checkpoints"
 
 # ── R-GCN Architecture ───────────────────────────────────────────────────
 NUM_LAYERS: int = 4

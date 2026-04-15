@@ -532,7 +532,7 @@ def run_training_pipeline(graphml_path: str = gcfg.FULL_GRAPHML) -> tuple:
         current_max = max(learned["EDGE_TYPE_PRIORITY"].values()) if learned["EDGE_TYPE_PRIORITY"] else 0
         learned["EDGE_TYPE_PRIORITY"]["SL_pair"] = current_max + 1
 
-    ckpt_dir = Path("/data/guoyu/KG-LLM-XSL/output/GNN_checkpoints")
+    ckpt_dir = Path(gcfg.CKPTS_DIR) 
     ckpt_dir.mkdir(parents=True, exist_ok=True)
 
     # save learned weights JSON
