@@ -46,6 +46,21 @@ pip install -U pip
 pip install -r requirements.txt
 ```
 
+### 3) Download local checkpoints
+
+Several modules expect local checkpoints or cached Hugging Face models. 
+We recommend you download them and substitute to your own repo directory.
+
+| Purpose | Default local path | Source |
+| --- | --- | --- |
+| Semantic embedding model (**required**) | `/data/guoyu/HF-models/MedCPT-Query-Encoder` | [ncbi/MedCPT-Query-Encoder](https://huggingface.co/ncbi/MedCPT-Query-Encoder) |
+| Keyphrase token-classification model (**optional**) | `/data/guoyu/HF-models/keyphrase-extraction-kbir-inspec` | [ml6team/keyphrase-extraction-kbir-inspec](https://huggingface.co/ml6team/keyphrase-extraction-kbir-inspec) |
+| Keyphrase seq2seq model (**optional**) | `/data/guoyu/HF-models/bart_finetuned_keyphrase_extraction` | [aglazkova/bart_finetuned_keyphrase_extraction](https://huggingface.co/aglazkova/bart_finetuned_keyphrase_extraction) |
+| Expert judge encoder (**optional**) | `/data/guoyu/HF-models/all-MiniLM-L6-v2` | [sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) |
+| Hallucination / NLI model (**optional**) | `/data/guoyu/HF-models/PubMedBERT-MNLI-MedNLI` | [pritamdeka/PubMedBERT-MNLI-MedNLI](https://huggingface.co/pritamdeka/PubMedBERT-MNLI-MedNLI) |
+
+**optional** models are only used in evaluation stage, if you have no intention to run LLM module, we recommend you downloading **MedCPT only**.
+
 ## Getting started
 
 This repo currently uses **absolute paths** in configuration files (e.g., `/data/guoyu/KG-LLM-XSL/...`). On a new machine (especially Windows), you should update these paths before running.

@@ -60,7 +60,6 @@ def _row_from_metrics(pair: tuple[str, str], strategy: str, m: dict[str, object]
 		"recall_raw": m.get("feature_embed_recall_raw"),
 		"grounded_score": m.get("grounded_feature_score"),
 		"faithfulness": checks.get("faithfulness_score"),
-		"gt_faithfulness": checks.get("gt_faithfulness"),
 		"kg_faithfulness": checks.get("kg_faithfulness"),
 		"hallucination_score": checks.get("hallucination_score"),
 		"total_similarity": checks.get("total_embedding_similarity"),
